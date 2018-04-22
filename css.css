@@ -1,0 +1,18 @@
+
+.border {
+	border : 2px solid black;
+	text-align: center;
+	margin-left: 200px;
+	margin-top: 150px;
+	margin-right: 200px;
+	margin-bottom: 150px:;
+
+}
+
+.border p {
+	text-align: center;
+	margin-left: 30px;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-bottom: 50px:;
+}
